@@ -1,0 +1,60 @@
+{
+    "DATA": {
+        "REP_TECHNOLOGICAL_WORLD": {
+            "TYPE": "ImageTitleContent",
+            "IMAGE": {
+                "SRC": "techpage/techpage-1.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "blue-box-frame-bottom-right"
+            },
+            "CONTAINER": {
+                "TITLE": "REP’s Technological World",
+                "PARAGRAPH_1": "REP put together the finest minds to build a technological powerhouse. The combination of software engineers, product managers, user experience designers, and realtors paved the way to build an innovative and one-of-a-kind platform.",
+                "PARAGRAPH_2": "Together, these experts developed a unique real estate brokerage platform with the goal of making the company’s realtors’ work smarter, more precise, and more convenient. The systems were developed on top of the Salesforce platform, the best in the world, which is cloud-based and accessible from anywhere at any time and from any device with a unique and convenient user experience in the user’s native language."
+            }
+        },
+
+        "REP_CRM": {
+            "TYPE": "ImageTitleContent",
+            "CONTAINER": {
+                "TITLE": "REP CRM",
+                "PARAGRAPH_1": "<b>REP CRM</b> is a customer relations management system that allows the company’s realtors to cultivate relationships with potential clients, close more deals, get a 360° view of all their deals and customers, and thus always be one step ahead of the competition.",
+                "PARAGRAPH_2": "With REP CRM, it’s easier to manage your workflow. Through the system, realtors at the company can manage their properties; the list of potential buyers; the sellers, leads, and partners; all activities, to-do lists and event calendars; documents and procedures; phone calls, messages, email, and more. In effect, all the necessary information for day-to-day operations are available at the push of a button so that no deal slips between the cracks.",
+                "PARAGRAPH_3": "REP enables its realtors to close as many deals as possible using interfaces and automation that facilitate workflows and make it faster than ever to close a deal. Every REP agent receives the company’s Google Workspace package for document management, calendar synchronization and management, and remote video conferencing, all completely synchronized with the realtor’s REP CRM.",
+                "PARAGRAPH_4": "REP’s realtors arrive at every meeting with a company tablet, produce real estate agreements from the system at the push of a button, and have the client sign the agreement digitally. At the closing, the system automatically sends the customer the credit card payment request form and digital invoice. All the documents are saved and accessible in the system."
+            },
+            "IMAGE": {
+                "SRC": "techpage/techpage-2.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "transparent-boxes-top-right"
+            }
+        },
+
+        "MARKETING": {
+            "TYPE": "ImageTitleContent",
+            "IMAGE": {
+                "SRC": "techpage/techpage-3.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "border-frame"
+            },
+            "CONTAINER": {
+                "TITLE": "Marketing",
+                "PARAGRAPH_1": "REP has the knowledge, the tools, and the ability to improve and increase the efficiency of the marketing, sales, and advertising processes that it provides to its realtors for their day-to-day activities, such as: a digital business card given to company realtors with details about them and their properties, visual presentation of properties including impressive videos, ability to produce documents/presentations through the system before meetings with buyers/sellers, ability to share on social media, production of customized landing pages, analysis and tracking of advertisements on the website, direct sharing of leads from the company website to realtors, and more.",
+                "PARAGRAPH_2": "REP enables its realtors to order all the digital and marketing material they need for their day-to-day activities through the company, such as: business cards, “for sale”/”for rent” signs, fliers, banners for social media, and more."
+            }
+        },
+        
+        "NOW_THAT_YOU_UNDERSTAND": {
+            "TYPE": "TitleButton",
+            "TITLE" : "Now that you understand how we’re going to change the world of real estate,</br> why don’t we do it together?",
+            "BUTTON": "joinUsButton"
+        }
+    },
+    "SEO": {
+        "TITLE": "REP’s Technological World",
+        "DESCRIPTION": "REP put together the finest minds to build a technological powerhouse. The combination of software engineers, product managers, user experience designers, and realtors paved the way to build an innovative and one-of-a-kind platform."
+    }
+}

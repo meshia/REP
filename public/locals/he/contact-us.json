@@ -1,0 +1,154 @@
+{
+    "DATA": {
+        "SEO": {
+            "TITLE": "REP-Realty - צור קשר",
+            "DESCRIPTION": "REP היא חברת הייטק, המציעה מודל של סוכנות תיווך גלובלית המופעלת על ידי מתווכי נדל\"ן מנוסים ואמינים, העובדים לפי הסטנדרטים האתיים והמקצועיים של המותג, לצד טכנולוגיה מובילה וחדשנית, וזאת לטובת שינוי ושיפור חוויתם של מתווכי הנדל\"ן ומקסום הכנסותיהם. - צור קשר"
+        },
+        "MAP": {
+            "SRC": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3380.158324318089!2d34.821917315485145!3d32.09200642590208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4a2ea8abf871%3A0x2fec264f5d54e1cf!2sBar%20Kochva%20St%204%2C%20Bnei%20Brak!5e0!3m2!1sen!2sil!4v1633357037031!5m2!1sen!2sil"
+        },
+        "FORM": [
+            {
+                "action": "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8",
+                "method": "POST"
+            },
+            {
+                "input": {
+                    "type": "hidden",
+                    "name": "oid",
+                    "value": "00D4L000000Ctqv"
+                }
+            },
+            {
+                "input": {
+                    "type": "hidden",
+                    "name": "retURL",
+                    "value": "https://rep-realty.com/thank-you"
+                }
+            },
+            {
+                "input": {
+                    "type": "hidden",
+                    "id": "lead_source",
+                    "name": "lead_source",
+                    "value": "Website"
+                }
+            },
+            {
+                "input": {
+                    "type": "hidden",
+                    "id": "00N8d000000dbXv",
+                    "name": "00N8d000000dbXv",
+                    "value": "Contact Us"
+                }
+            },
+            {
+                "input": {
+                    "type": "hidden",
+                    "id": "00N8d000000dbXq",
+                    "name": "00N8d000000dbXq",
+                    "value": "Hebrew"
+                }
+            },
+            {
+                "input": {
+                    "id": "first_name",
+                    "name": "first_name",
+                    "maxLength": "40",
+                    "type": "text",
+                    "placeholder": "שם פרטי",
+                    "required": "true",
+                    "oninvalid": "this.setCustomValidity('יש למלא את השדה')",
+                    "oninput": "this.setCustomValidity('')"
+                }
+            },
+            {
+                "input": {
+                    "id": "last_name",
+                    "name": "last_name",
+                    "maxLength": "80",
+                    "type": "text",
+                    "placeholder": "שם משפחה",
+                    "required": "true",
+                    "oninvalid": "this.setCustomValidity('יש למלא את השדה')",
+                    "oninput": "this.setCustomValidity('')"
+                }
+            },
+            {
+                "input": {
+                    "id": "mobile",
+                    "name": "mobile",
+                    "maxLength": "20",
+                    "type": "number",
+                    "placeholder": "טלפון",
+                    "required": "true",
+                    "oninvalid": "this.setCustomValidity('יש למלא את השדה')",
+                    "oninput": "this.setCustomValidity('')"
+                }
+            },
+            {
+                "input": {
+                    "id": "email",
+                    "name": "email",
+                    "maxLength": "80",
+                    "type": "email",
+                    "placeholder": "אימייל",
+                    "required": "true",
+                    "oninvalid": "this.setCustomValidity('')",
+                    "oninput": "this.setCustomValidity('')"
+                }
+            },
+            {
+                "textarea": {
+                    "name": "description",
+                    "type": "text",
+                    "placeholder": "הודעה",
+                    "required": "true",
+                    "oninvalid": "this.setCustomValidity('יש למלא את השדה')",
+                    "oninput": "this.setCustomValidity('')"
+                }
+            },
+            {
+                "input": {
+                    "id": "00N4L000006qsJD",
+                    "name": "00N4L000006qsJD",
+                    "type": "checkbox",
+                    "checked": "true",
+                    "value": "1",
+                    "required": "true",
+                    "oninvalid": "this.setCustomValidity('יש להסכים לתנאי השימוש')",
+                    "oninput": "this.setCustomValidity('')"
+                },
+                "label": {
+                    "for": "00N4L000006qsJD",
+                    "html": "אני מסכים/ה לתנאי השימוש ולמדיניות הפרטיות"
+                }
+            },
+            {
+                "input": {
+                    "id": "faux-checkbox-opt-out",
+                    "name": "faux-checkbox-opt-out",
+                    "type": "checkbox",
+                    "checked": "true",
+                    "value": "0"
+                },
+                "label": {
+                    "for": "faux-checkbox-opt-out",
+                    "html": "אני מאשר/ת קבלת עדכונים, חדשות ומידע שיווקי למייל"
+                }
+            },
+            {
+                "button": {
+                    "type": "submit",
+                    "name": "submit",
+                    "html": "שלח"
+                }
+            }
+        ],
+        "ADDRESS": {
+            "ADDRESS_1":"בר כוכבא 4,",
+            "ADDRESS_2":"בני ברק",
+            "EMAIL": "info@rep-realty.com"
+        }
+    }
+}

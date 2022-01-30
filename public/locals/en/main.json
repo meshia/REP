@@ -1,0 +1,480 @@
+{
+    
+    "HEADER": {
+        "ENTER_SYSTEM":{
+            "LABEL": "Login",
+            "LINK": "https://agent.rep-realty.com/s/login/?language=en_US"
+        },
+        "JOIN_US":{
+            "LABEL": "Join Us",
+            "LINK": "https://rep-agent.force.com/clients/s/join-us?language=en_US"
+        },
+        "BANNER_TITLE":"Changing the World of Realty Together"
+    },
+    
+    "SEO": {
+        "TITLE": "REP-Realty",
+        "DESCRIPTION": "Real estate company that offers new real-estate agents and veteran real-estate agents fare commission model and mediation software system for real-estate agents",
+        "KEYWORDS": "Real-estate business, real-estate job, independent broker, real estate agency, successful broker, Realtors test, agent coacher, broker tips, realtors, real estate, brokerage license"
+    },
+    
+    "MENU": {
+        "LINK_HOME":"Home",
+        "LINK_ABOUT":"About Us",
+        "LINK_OUR_TEAM":"Our Team",
+        "LINK_TECH":"Tech",
+        "LINK_BLOG":"", 
+        "LINK_CAREERS":"Career"
+    },
+    
+    "FOOTER": {
+        "ADDRESS_1":"Bar Kochva 4,",
+        "ADDRESS_2":"Bnei Brak",
+        "LINKS" : {
+            "CONTACT_US": {
+                "LABEL": "Contact Us",
+                "LINK": "/contact-us"
+            },
+            "JOIN_US": {
+                "LABEL": "Join Us",
+                "ONCLICK": "window.open('https://rep-agent.force.com/clients/s/join-us?language=iw','popup','width=600,height=600');"
+            }
+        },
+        "NAV": {
+            "TERM_OF_SERVICE": "Terms of Service",
+            "PRIVACY_POLICY": "Privacy Policy",
+            "ACCESSIBILITY": "Accessibility"
+        },
+        "COPYRIGHT": "REP DIGITAL REAL ESTATE SOLUTIONS LTD"
+    },
+    
+    "BLOG": {
+        "SEO": {
+            "TITLE": "REP-Realty - Blog",
+            "DESCRIPTION": "Real estate company that offers new real-estate agents and veteran real-estate agents fare commission model and mediation software system for real-estate agents - Blog"
+        },
+        "BLOG_FILES": []
+    },
+
+    "CAREERS": {
+        "TITLE": "Come work with us",
+        "SEO": {
+            "TITLE": "REP-Realty - Blog",
+            "DESCRIPTION": "Real estate company that offers new real-estate agents and veteran real-estate agents fare commission model and mediation software system for real-estate agents - Blog"
+        },
+        "CAREERS_CATEGORIES": {
+            "REAL-ESTATE" : { 
+                "TYPE": "TitleContent", 
+                "CATEGORY": "/CareersCategory/real-estate",
+                "TITLE": "Real Estate",
+                "PARAGRAPH": "REP is looking for a variety of real estate positions starting with new agents to experienced ones, agent’s coaches and recruiters. As our community of relatable agents is growing every day we are seeking for new agents that desire to empower their career under a growing and innovative brand. REP agents are part of a varied community that cooperates with each other, advising and empowering each other's businesses.",
+                "IMAGE": {
+                    "SRC": "careers/real-estate.png",
+                    "ALT": "",
+                    "TITLE": "",
+                    "CLASSES": "blue-box-frame-bottom-left"
+                },
+                "CAREER_FILES": [
+                    "careers/real-estate/career_1",
+                    "careers/real-estate/career_2",
+                    "careers/real-estate/career_3",
+                    "careers/real-estate/career_4"
+                ]
+            },
+            "MARKETING": {
+                "TYPE": "TitleContent",
+                "CATEGORY": "/CareersCategory/marketing",
+                "TITLE": "Marketing & Creative",
+                "PARAGRAPH": "REP is a growing and innovative global real estate agency brand whose goal is to connect real estate agents to the world of high-tech and digital marketing. We are looking for marketing professionals with creative thinking Who is not afraid of challenges to join our marketing team for a variety of marketing positions.",
+                "IMAGE": {
+                    "SRC": "careers/creative-marketing.png",
+                    "ALT": "",
+                    "TITLE": "",
+                    "CLASSES": "transparent-boxes-top-right"
+                },
+                "CAREER_FILES": [
+                    "careers/marketing/career_1"
+                ]
+            },
+            "TECH": {
+                "TYPE": "TitleContent",
+                "CATEGORY": "/CareersCategory/tech",
+                "TITLE": "Technology",
+                "PARAGRAPH": "REP was founded with a vision to connect real estate agents to the world of high-tech. We invest a lot of effort to implement and develop leading and innovative technological solutions based on the Salesforce platform. As the company grows we are seeking for Salesforce rockstars to join a young, fast-growing start-up that encourages its employees to innovate and implement their ideas.",
+                "IMAGE": {
+                    "SRC": "careers/technologies.png",
+                    "ALT": "",
+                    "TITLE": "",
+                    "CLASSES": "border-frame"
+                },
+                "CAREER_FILES": [
+                    "careers/tech/career_1",
+                    "careers/tech/career_2",
+                    "careers/tech/career_3",
+                    "careers/tech/career_4"
+                ]
+            }
+        }
+    },
+
+    "THANK_YOU": {
+        "TYPE": "ImageTitleContent",
+        "IMAGE": {
+            "SRC": "thank-you.png",
+            "ALT": "thank-you",
+            "TITLE": "thank-you"
+        },
+        "CONTAINER": {
+            "TITLE": "Thank you!",
+            "TITLE_2": "Your request has been received",
+            "TITLE_3": "Our representative will contact you soon"
+        }
+    },
+
+    "TERM_OF_SERVICE": {
+        "TITLE": "Terms of Service",
+        "CONTENT":[
+            {
+                "h6": "Definitions"
+            },
+            {
+                "p": [
+                    "In these terms of service, the following terms will be defined as follows:",
+                    {
+                    "b": "\"The website\"",
+                    "text": "- rep-realty.com."
+                    },
+                    "\"The services\" – The website’s services enabling the ordering of exclusive or nonexclusive real estate services for sale and/or let and/or purchase and/or rental of private and/or commercial real estate properties (henceforth: \"the properties\") that may be granted by the site owners (as defined below)\n                            via real estate brokers licensed in Israel whom users may contact via the website; services enabling real estate brokers licensed in Israel to address the site owners in order to determine the possibility of\n                            contacting them; and also peripheral and supplemental services which may be offered for marketing and advertising real estate properties, digital signature services, and other services related to moving\n                            house and/or performing real estate-related business. A portion of the services are accessible only after registering for them on the website.",
+                    "\"site owners\" – REP Digital Real Estate Solutions, Ltd, registration number 516337995.",
+                    "\"The user(s)\" – persons who make any use of the website and/or receive the services therefrom.",
+                    "\"Contact information\" – telephone  0505558352, email address info@rep-realty.com"
+                ]
+            },
+            {
+                "h6": "General"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "The website is run and managed by the site owners and serves, inter alia, for advertising and providing services. These terms of service outline the relationship between you, the site user, and the site owners for, inter alia, purchasing and receiving the services via the website.",
+                    "By accessing or using any part of the website and/or the services, you agree to the terms of service and/or privacy policy. If you do not agree with the terms of service and/or the privacy policy or any of their terms, please refrain from accessing the website or receiving the  services.",
+                    "The site owners reserve the right to change the terms of service and/or privacy policy from time to time at their sole discretion without prior warning or notice. The site owners will publish the updated terms of service and/or privacy policy on the website. The user is recommended to check the website frequently for changes in the terms of service and/or privacy policy.",
+                    "Any person using the services affirms that he has read these terms of service and/or the privacy policy, and that he agrees to all the terms and conditions, and that neither he nor anyone acting on his behalf will have any claim and/or demand against the site owners and/or any of their managers and/or employees, in anything related to the terms of service and/or privacy policy.",
+                    "The site owners may, at their discretion, end website operations (including provision of services) at any time and with no prior warning.",
+                    "The site owners reserve the right to withhold access to the website and/or the ability to receive the services and/or to cancel the participation of a service user whose behavior is unbecoming and/or illegal and/or not in accordance with these terms of service and/or the privacy policy and/or who attempts to interfere with ordinary website operations and/or who does not accept the terms of service (including the privacy policy) in the way that the site owners choose to request his approval, all according to the sole and complete discretion of the site owners.",
+                    "The website is active during all days of the week and all hours of the day. The website may be taken down for maintenance and/or due to errors out of the site owners’ control and which may take place at any time and/or for other reasons, and the user shall have no claim against the site owners for such.",
+                    "In all matters concerning actions taken through the website, the site owners’ computer records shall be the decisive evidence.",
+                    "The terms of service included here and the privacy policy apply to use of the website and the services included therein via any computer or other communications device (such as cellular telephone, portable computer, and so on). Similarly, they apply to use of the website be it via the internet or any other network or other means of communication. Inasmuch as the site owners shall choose to provide the services via a smartphone application, these terms of service and the privacy policy shall apply to use thereof unless that application includes other terms of service.",
+                    "The language of these terms of service applies to both sexes equally and use of the masculine gender is for convenience alone.",
+                    "The chapter headings are included for convenience and readability and shall not be a factor in interpreting the terms of service."
+                    ]
+                }
+            },
+            {
+                "h6": "Affirmations and Obligations of the Users"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "The user affirms that he is over the age of 18, that he is able to communicate with the site owners in accordance with the terms of service, and takes full responsibility for website usage including the services.",
+                    {
+                        "text": "The user agrees not to take the following actions with relation to the website and/or services:",
+                        "li": [
+                            "It is forbidden to use the website illegally or with the intention of violating any law or in any way forbidden by these terms of service;",
+                            "It is forbidden to make any change to the services and/or to the website and/or to the source code or to any component of the website, or any unauthorized usage of the intellectual property of the site owners and/or any third party;",
+                            "It is forbidden to use any data and/or advertisements published by the website in any way contrary to these terms of service without the advance written permission of the site owners and in compliance with the terms of that permission (inasmuch as they are given);",
+                            "It is forbidden to copy, reproduce, distribute, sell, market, translate and use, or to allow others to use, in any way, content from the website (including trademarks, images, text, and computer code) without the express, advance, written permission of the site owner;",
+                            "It is forbidden to remove, change, or hide any of the site  owners’ trademarks from the website and/or services;",
+                            "It is forbidden to operate or to allow to be operated any computer application or other tool, including programs of the robot/crawler/spider/page-scraper/deep-link varieties or other automatic tools, algorithmic or methodological, or any similar or equivalent manual process, to access, acquire, copy, reverse engineer, dismantle and scan or attempt by any other means to publish any part of the services and/or any content on the website.",
+                            "It is forbidden to use the website in a way that is not in accordance with the site owners’ privacy policy and/or these terms of service and/or all the rules and regulations in these terms of service."
+                        ]
+                    }
+                    ]
+                }
+            },
+            {
+                "h6": "Registration to Receive the Services on the Website"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "A portion of the services on the website are accessible only after registering on the website to receive them. At the time of registration, the user will be asked to provide, inter alia, identifiable information such as name, means of communication (telephone number and email address), date of birth, identification number, and in certain cases real estate license number. Similarly the user may be required to provide, inter alia, specific information about properties in his ownership and/or for which he has the legal authority to perform real estate transactions and/or properties which he intends to sell and/or let and/or buy and/or rent, including their location, classification, size, and other details related to them. As stated, the user is to provide accurate, complete, and up-to-date data, and any result of use of incorrect and/or inaccurate data as stated will be the sole responsibility of the user. Failure to comply with this term constitutes a violation of these terms of service which may cause, inter alia, non-receipt of the services.",
+                    "In accordance with the site owners’ privacy policy, the site owners guarantee that use will not be made of information provided by the user except to enable provision of the services or for website operations, as well as to maintain contact with the user. Despite that stated above, the site owners may share details provided by the user to a third party in cases where the user committed some action or oversight that harms and/or may harm the site owners and/or some third party, as well as if the user uses the services to take an illegal action and for any dispute or legal procedure.",
+                    "After the information is provided and confirmed and the user agrees to the terms of service and privacy policy, the site owners may, but are not required to, present or send the user updates via his contact information, including advertisements, content updates, information on the site owners’ or relevant third parties’ goods and services, and likewise others’ goods and services, sales, website news, as indicated by clause 30a of the Communications Law (Telecommunications and Broadcasts) of 5742 – 1982.",
+                    "The site owners may at any time end and/or decrease a given service as well as add new services and/or make any change to the type of and/or services offered on the website without prior notice and at the site owners’ sole discretion.",
+                    "The site owners may offer for purchase on the website various types of services to registered users. The user agrees to pay the site owners for the various services at the prices given on the website on the date of purchase. The payment is non-refundable. All prices on the website are given in new Israeli shekels (and include VAT if required by law). Without diminishing from that stated above, it shall be clarified that the site owners may update the service prices on the website from time time without any need for prior notice. The price changes will take effect immediately with their publication on the website.",
+                    "The site owners may offer sales, bonuses, and discounts on the website. The site owners may end these sales, bonuses, and discounts at any time, or replace  or change them, without prior notice.",
+                    "Purchases on the website are done via Israeli or international credit card, subject to the approval of the credit company associated with the card used to pay for the order by the user. The site owners reserve the right to change the means and/or method of purchase at any time without prior notice at their sole discretion."
+                    ]
+                }
+            },
+            {
+                "h6": "Changes and Cancellation"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "The contents of this section are subject to the Consumer Protection Law of 5741 – 1981.",
+                    "Without diminishing from that stated above, a user who wishes to change his purchase of services as well as a user who wishes to cancel his purchase of services may contact the site owners via the contact information found in section 1 of these terms of service, from Sunday to Thursday between the hours of 9:00 AM and 3:00 PM.",
+                    {
+                        "text": "The site owners reserve the right to end at any time, at their sole discretion, the website operations and/or cancel a purchase made by a user and/or not to provide a given service including, but not limited to, each of the instances listed below:",
+                        "li": [
+                            "The full credit card information or full information of the user was not received by the system.",
+                            "The user’s credit card was blocked or limited in use in some way.",
+                            "The user provided faulty information during the registration to the website and/or at the time of purchase and/or while using the website.",
+                            "Any instance in which some action was taken contrary to these terms of service, contrary to the terms of the privacy policy or to the terms of any service offered by the website.",
+                            "The user performed an illegal act and/or violated the terms of any law and/or the site owners suspect such an action due to their own judgment.",
+                            "The user committed some act or oversight which could harm the site owners and/or persons acting on their behalf and/or the ordinary operations of the website and/or any other third party, including other users, employees, and service providers of the site owners.",
+                            "Any case at all in which, due to some force majeure, ordinary and/or continuous operations of the website by the site owners become impossible. For these purposes, a force majeure is: weather, natural disasters and other hazards, problems with credit defrayal, computer system errors, email system errors, a sensitive security situation, strikes and delays during peak demand periods (such as holidays), etc. The user shall have no claims against the site owners for these. So too, the site owners will not be accountable for any cancellation whose source is the user and/or not in the full control of the site owners, including cases of difficulty communicating with the user."
+                        ]                    
+                    }
+                    ]
+                }
+            }, 
+            {
+                "h6": "Non-Accountability"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "The site owners and/or persons acting on their behalf shall not be accountable and shall not bear any damages, direct or indirect, consequential or special, caused to the user and/or persons acting on his behalf and/or any third party and/or any property, as a result of use of services via the website—whatever the rationale of the claim—including physical harm and/or loss of income and/or withholding of revenue caused by any reason, as well as damage caused by purchase and/or payment without the agreement of the user and/or without his knowledge and/or as a result of mistyped user information (including credit card information) and/or any cancellation of the purchase of a service and/or change in service and/or in cases of communication errors due to an action or oversight by communications provider(s) and/or any damage caused by service usage not in accordance with the site owners’ terms.",
+                    "All advertisements, including images, text, information, displays on the website related to services, including anything related to the nature and/or type of services and especially to the presented prices, such as in relation to properties (henceforth: “the advertisements”) are for illustration only, are not at all binding on the site owners, who may change them and/or replace them at any time at their sole discretion, and they do not guarantee that these advertisements will match the service that the user will in fact receive.",
+                    "If a typographical error or any other error was made in good faith by the advertisers, it shall not be binding on the site owners and/or anyone acting on their behalf.",
+                    "The site owners do not guarantee the proper operations of the website including the correctness of links that may appear thereon, they do not guarantee that these links will lead to a product page and/or active webpage and the site owners are not responsible for anything related thereto. Inasmuch as links to other websites will appear, the site owners do not guarantee and are not responsible in any way for their content and/or reliability and the user knows that the site owners do not control the content of those additional websites.",
+                    "The user agrees to compensate the site owners for any damage, loss, expense, loss of revenue or payment that will be caused them, immediately on receiving the first demand in writing from the site owners due to any malicious and/or negligent use and/or violation of any term of these terms of service and/or the privacy policy including legal fees.",
+                    "The information provided by the user and/or collected by the site owners is stored on Salesforce’s secure servers. Unfortunately, the transfer of information over the internet is not absolutely secure. Though the site owners use reasonable commercial means to protect all information received by them, the site owners cannot guarantee absolute security for the data and information transferred via the website, and the user transfers his information via the website at his own risk."
+                    ]
+                }
+            },     
+            {
+                "h6": "Copyright"
+            },
+            {
+                "ol": {
+                    "li": [
+                        "The users affirm that they are aware that all rights to the intellectual property related to the products and materials on the website, including copyright, trademarks, patents, logos, commercial methods and secrets, are the exclusive property of the site owners. Users’ access to the site and use of the services does not constitute a license or right for any user or third party to the website and/or copyright held by the site owners. The site owners and companies related to them, their franchisees and service providers reserve every right not explicitly granted by these terms of service.",
+                        "To remove any doubt, the name \"REP\" as well as the domain name of the website are trademarks (whether registered or not) and the exclusive property of the site owners. It is forbidden to use them in any way without prior written permission.",
+                        "The users affirm and agree that: (a) regarding all information which they provide to the site owners, the users have the full right and authority to provide that information and to allow the site owners to use it to provide the users with the services, and (b) no piece of information provided by the users and/or on their behalf to the site owners during website usage will harm or violate the rights of any third party."
+                    ]
+                }
+            },   
+            {
+                "h6": "Privacy"
+            },
+            {
+                "ol": {
+                    "li": "The site owners’ updated privacy policy is available on the website (henceforth: \"the privacy policy\"). The site owners recommend that users review the privacy policy on initially using the site. The site owners may (but are not obligated to) request specific approval from users related to their privacy policy as a condition for receiving the services."
+                }
+            },
+            {
+                "h6": "Miscellaneous"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "The law applying to these terms of service and/or any action and/or dispute caused by them is the Israeli law alone. The court of law in Tel Aviv-Jaffa shall be the sole authority to adjudicate disputes caused by or related to, directly or indirectly, these terms of service and/or usage and/or purchase according to these terms of service, such that the authority of any other court is revoked.",
+                    "The behavior of the site owners shall not be considered a concession of any of their rights according to these regulations or by law, and/or a concession or agreement on their part to any violation or failure to comply with any term."
+                    ]
+                }
+            }        
+        ]
+    },
+
+    "PRIVACY_POLICY": {
+        "TITLE": "Privacy Policy",
+        "CONTENT": [
+            {
+                "h6": "Preface"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "All terms not defined in this privacy policy shall have the same meaning as given them in the terms of service.",
+                    "REP Digital Real Estate Solutions, Ltd., registration number 516337995 (henceforth: \"the site owners\") manages and operates the website at the address rep-realty.com which serves, inter alia, for the ordering of exclusive or non-exclusive brokerage services for sale and/or let and/or purchase and/or rent of private and/or commercial real estate properties (henceforth: “the properties”) to be granted by the site owners (as defined above) via real estate brokers registered in Israel whom users can contact via the website; services which allow real estate brokers registered in Israel to address the site owners in order to determine the possibility of contacting them; as well as peripheral and supplementary services which may also be offered for marketing and advertising real estate properties, electronic signature services, and other services related to moving house and/or performing real estate transactions (\"the services\"). A portion of the services are accessible only after registering to receive the services on the website via the internet by website visitors (\"the user(s)\" and \"the website\").",
+                    "This privacy policy, together with the terms of service, sets the rules according to which the site owners collect data from the  site users who choose to use the services or which the site users provide to the site owners any other way and which are stored and processed by the site owners (henceforth: “the privacy policy”).",
+                    "The site owners recognize the importance of information security.",
+                    "This privacy policy applies to the website alone. On approving the terms of service, the user also approves the terms of this privacy policy. The site owners may (but are not obligated to) request explicit approval of the privacy policy (or a change to it) as a condition to using the website.",
+                    "This privacy policy may be updated from time to time, for any reason. Each version of the privacy policy will apply to information collected during the time when that version was in effect. The site owners will notify the users regarding any fundamental change to the privacy policy by publishing the new privacy policy in the system. The site owners recommend that customers familiarize themselves with the privacy policy regularly."
+                    ]
+                }
+            },
+            {
+                "p": [
+                    {
+                    "b": "Use of the website and/or the services constitutes the user’s approval of the collection and use of personal information (as defined below) as elaborated in this privacy policy and/or in the terms of service and subject to any law, including storing information in the site owners’ database."
+                    },
+                    {
+                    "b": {
+                        "text": [
+                        "In order to remain up-to-date on offers and/or sales and/or updates that take place from time to time on the website, the user expressly approves and consents that the site owners will be permitted to address the user from time to time via direct contact, including email and/or telephone including SMS, for the purposes of providing the services, for the purposes of advancing sales and/or marketing (as stated in this policy), as well as for the purposes of sending advertisements (including those indicated in section 30a of the Communications Law (Telecommunications and Broadcasts) of 5742 – 1982) according to law. A user who would like to stop receiving these messages as stated is requested to contact the site owners’ customer service department by email at the address info@rep-realty.com and inform them of his desire to be removed from the mailing list.",
+                        "The user affirms that he is under no legal obligation to give over information and does so of his own free will and consent."
+                        ]
+                    }
+                    }
+                ]
+            },
+            {
+                "h6": "What information do we collect and how may we use it?"
+            },
+            {
+                "ol": {
+                    "li": [
+                    {
+                        "text": "The site owners may collect and process the following information about the user (henceforth: \"information\"):",
+                        "li": [
+                            "Information which the user provides during the registration process (such as: full name, ID number, email address, date of birth, real estate license number, telephone number);",
+                            "Information regarding properties under the ownership of the user and/or for which he has the legal authority to perform real estate transactions and/or properties which he wishes to buy and/or rent, including their location, classification, size, and other data related to them;",
+                            "Details about the use made by the user of the website, the services, and even the internet, including, but not limited to, data transfer, cookies, and other communications data;",
+                            "The site owners may also store information about the user’s cellular telephone, including the user’s IP address, operating system, and advertisement which the user watched;"
+                        ]
+                    },
+                    {
+                        "text": "The site owners may make use of information in accordance with the privacy policy and/or terms of service and/or the law, as detailed below:",
+                        "li": [
+                            "To provide the user with the services on the website and those requested by him including, but not limited to, contacting him regarding the services;",
+                            "To enable the convenient and efficient provision of services to the user, including via the website;",
+                            "To improve and/or change and/or cancel the services or any other content on the website;",
+                            "To provide the user with peripheral services including, but not limited to, customizing advertising to a given user, informing a user about services;",
+                            "To enforce the terms of service and/or privacy policy and/or other law;",
+                            "For the purpose of overseeing the use of the website and the services and the technical activity and management of the website;",
+                            "To check the estimated number of users, when they logged in to the website, and to perform analyses of usage patterns on the website;",
+                            "Analysis of behavior patterns of users, including for the purpose of inquiries into complaints and inspection;",
+                            "Subject to the user’s consent, for the purposes of marketing, advertising, and advancing sales and, inter alia, contacting the user through any means of communication which the site owners see fit (email, SMS, social media, telephone, etc.) regarding information on products, services, updates, and sales occurring and/or being sold and/or related to the services, including advertisements as defined in 30a of the Communications Law (Telecommunications and Broadcasts) of 5742 – 1982."
+                        ]
+                    },
+                    "The site owners may store personal information for a period after having completed providing the services, if the information is necessary for the purposes for which it was collected or if it is required by law to be stored.",
+                    "All the information provided by the user or collected by the site owners is stored on Salesforce’s secure servers. Unfortunately, the transfer of information over the internet is not absolutely secure. Though the site owners use reasonable commercial means to protect all information received by them, the site owners cannot guarantee absolute security for the data and information transferred via the website, and the user transfers his information via the website at his own risk."
+                    ]
+                }
+            },
+            {
+                "h6": "Disclosure of Information"
+            },
+            {
+                "p": "The site owners shall be permitted to disclose information provided by the users to third parties in the following instances:"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "Disclosure and transfer of information to third parties, including realtors working with the site owners and/or on their behalf and/or in partnership with them as well as other providers of peripheral services sold by the site owners via the website, for the purpose of marketing activities related to the properties and provision of all the services offered on the website, subject to a contractual agreement with said third parties to maintain secrecy and security of the personal information;",
+                    "Any instance in which the site owner is obligated by law or a court injunction, with our without the user’s consent and with or without prior notice of the intent to disclose the personal information and/or to exercise the site owners’ legal right (including collection of unpaid debts to the site owners by a third party) and/or to defend against legal claims including suits against the site owners at the sole discretion of the site owners.",
+                    "The site owners may reveal the personal information of a user who uses the website for any act that constitutes a violation of any law or term of service.",
+                    "The site owners shall be permitted to reveal personal information in any instance of sale of the site owners or merger with a third party or sale of the site owners’ activities and/or website to a third party and/or with regards to any other significant corporate transaction, given that said third party accepts the terms of service.",
+                    "The site owners may reveal personal information to other third parties who provide the site owners with commercial services related to the services, that being to the extent necessary to provide the users with the services and subject to the contractual agreement of said third parties to maintain the secrecy and security of the personal information.",
+                    "Any instance in which the user permits the site owners to share the personal information with third parties.",
+                    "The site owners may reveal a user’s personal information in order to defend their employees, customers, or other users of the website."
+                    ]
+                }
+            },
+            {
+                "h6": "User Choice Regarding Information"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "By the authority of the Privacy Protection Law of 5741 – 1981, every user may request from the site owners to browse the information stored with them regarding said user. A user who finds that the information regarding him is inaccurate, incomplete, or out of date may contact the site owner’s customer service via email at the address info@rep-realty.com and request to fix and/or erase the information regarding him.",
+                    "The user also has the right not to provide personal information to the site owners and/or not to process, store, or use personal information, but the user affirms that he is aware that on requesting not to store or process his personal information, it may become impossible to provide him with all and/or part of the services and in making the request he waives all claims and/or demands toward the site owners with regard to the services.",
+                    "The user may exercise these rights by contacting the site owners at the address info@rep-realty.com."
+                    ]
+                }
+            },
+            {
+                "h6": "Cookies"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "The site owners may make use of various technological tools in order to collect personal information about the user and/or his activities on the website, including cookies and other aids.",
+                    "The site owners may distribute these cookies (one or more) to a site user for the purposes listed in section 2 above and/or in order to customize the website and/or services for the user. The personal information collected in this manner may be collected automatically and may include information related to the user’s internet usage including web pages which he visits, searches done on the website, and the links he follows on the website. Certain browsers include the ability to choose to reject cookies automatically – a user who so chooses may do so through the settings of the browser that he uses to view the website, but inasmuch as he does so, he must note that may not be exposed to certain contents on the website and/or many not be able to use certain features of the website and/or services."
+                    ]
+                }
+            },
+            {
+                "h6": "Security"
+            },
+            {
+                "ol": {
+                    "li": "The site owners use electronic and administrative tools designed to protect personal information from unauthorized access. Nevertheless, the site owners do not guarantee that the services they offer are absolutely impenetrable to unauthorized access."
+                }
+            },
+            {
+                "h6": "Links to External Websites"
+            },
+            {
+                "ol": {
+                    "li": "The site may, from time to time, include links and applications from advertisers and related companies. The existence of these links on the website does not constitute approval, legitimization, or agreement with the content or representation by the site owners of these third parties, the owners of the links. These other sites may place cookies or other files on the user’s cellular phone and/or computer, collect data or request personal information from the user. If the user chooses to follow these links, he does so at his own risk and subject to the terms of service and privacy policies of those sites, and he waives any claim and/or suit against the site owners on the basis of this usage."
+                } 
+            }
+        ]
+    },
+
+    "ACCESSIBILITY": {
+        "TITLE": "Accessibility",
+        "CONTENT": [
+            {
+                "h6": "Introduction"
+            },
+            {
+                "p": [
+                    "The Internet constitutes the largest resource supporting freedom of information today for the user community in general and for users with disabilities in particular. For that reason we place emphasis on granting equal service to people with disabilities who use information displayed on the website, and on improving their browsing experience.",
+                    "We seek to ensure that our digital services will be accessible to people with disabilities, and accordingly we have invested in the website’s ease of use for people with disabilities, to the full extent possible, in the belief that every person deserves the right to a life of equality, respect, comfort, and independence."
+                ]
+            },
+            {
+                "h6": [
+                    "Using the EqualWeb website accessibility tool",
+                    "How does the site’s accessibility work?"
+                ]
+            },
+            {
+                "p": "This website employs the Nagich By Click accessibility software and is connected through a special accessibility server. The software complies with Israeli standard SI 5568 at AA level. The software is subject to the manufacturer’s Terms of Use. The website owners and/or agents bear the responsibility for the usage and implementation on the website, including the content displayed on the website under the Terms of Use of the Software."
+            },
+            {
+                "p": "The website features an accessibility menu. A click on the menu makes accessibility buttons available. After selecting a menu item, the user should wait for the page to be loaded."
+            },
+            {
+                "h6": "What are the menu items?"
+            },
+            {
+                "ol": {
+                    "li": [
+                    "Option for keyboard-based navigation",
+                    "Adaptation of the website for NVDA assistive technology",
+                    "Enlargement of the font on the website to 4 levels of magnification",
+                    "Immobilization of moving elements, and stoppage of blinking",
+                    "Altered color contrast against dark background",
+                    "Altered color contrast against light background",
+                    "Adaptation for color-blind users",
+                    "Change of font for better readability",
+                    "Enlarged cursor, and change of color to black or white",
+                    "Enlargement of display to ~200%",
+                    "Emphasizing links on the website",
+                    "Emphasizing headings on the website",
+                    "Presentation of alt text to graphics",
+                    "Declaration of accessibility",
+                    "Sending of accessibility feedback"
+                    ]
+                }
+            },
+            {
+                "h6": "Clarification"
+            },
+            {
+                "p": "Despite our efforts to apply accessibility to browsing on every webpage, it may be discovered that some of webpages have not yet received accessibility or are not suitable for any available accessibility solution.\n                        We are continuing the effort to improve the website’s accessibility to the full extent possible, guided by our belief, and by our moral commitment, that the website should be usable by the entire population, including people with disabilities."
+            },
+            {
+                "h6": "Contact and feedback"
+            },
+            {
+                "p": {
+                    "a": {
+                    "href": "contact-us",
+                    "text": "\"Contact Us\""
+                    },
+                    "text": "We welcome feedback from our users. If you encountered any particular accessibility problem while browsing the website, we will be grateful for your feedback on the"
+                }
+            }
+              
+        ]
+    }
+}
