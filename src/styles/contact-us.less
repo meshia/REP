@@ -1,0 +1,50 @@
+.ContactUs {
+    .card {
+        margin: 55px auto;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        .iframe-container, .form-container, .address-container {
+            width: 49%;
+            display: flex;
+        }
+        .iframe-container {
+            iframe {
+                width: 100%;
+            }
+        }
+        .form-container {
+            form {
+                flex: 0 0 100%;
+            }
+        }
+        .address-container {
+            display: flex;
+            flex-flow: column;
+            margin: 15px 0;
+            .logo-container {
+                max-width: 20%;
+            }
+        }
+        @media @tablet-down {
+            width: unset;
+            flex-flow: column wrap;
+            margin: 30px auto;
+            .iframe-container, .form-container, .address-container {
+                width: 100%;
+            }
+            .iframe-container{
+                order: 1;
+                iframe {
+                    height: 307px;
+                }
+            }
+            .address-container {
+                order: 2;
+                
+            }
+            .form-container {
+                order: 3;
+            }
+        }
+    }
+}

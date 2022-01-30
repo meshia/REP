@@ -1,0 +1,10 @@
+{
+    "allowedExtensions":[".less"],
+    "enableJs": true,
+    "minified": true,
+    "includeHidden": true,
+    "sourceMap": true,
+    "mainFile": "main.less",
+    "watchFolder": "src/styles",
+    "outputFolder": "src/"
+}
