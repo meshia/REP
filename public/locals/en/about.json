@@ -1,0 +1,19 @@
+{
+    "DATA": {
+        "ABOUT": {
+            "TYPE": "ImageTitleContent",
+            "SEO": {
+                "TITLE": "REP-Realty - About",
+                "DESCRIPTION": "REP is a high-tech company that offers a model for a global real estate agency operated by experienced and reliable realtors who meet the ethical and professional standards of the brand—along with leading and innovative technology—all to improve realtors’ experience and maximize their revenue."
+            },
+            "CONTAINER": {
+                "TITLE": "About Us",
+                "PARAGRAPH_1": "<b>REP</b> is a high-tech company that offers a model for a global real estate agency operated by experienced and reliable realtors who meet the ethical and professional standards of the brand—along with leading and innovative technology—all to improve realtors’ experience and maximize their revenue.",
+                "PARAGRAPH_2": "At REP, we believe that in today’s world, there’s no room for organizations trying to render the realtor redundant, or franchise-based models that enforce an unfair division of commissions between the franchisee and the realtor. That’s the reason that REP <b> embraces realtors and places them at center stage and at the very core of the company’s operations, based on the understanding that they are the most efficient and most important factor in this business.</b>",
+                "PARAGRAPH_3": "REP’s founder and CEO, <b>Avi Avisror </b>  is a businessman, entrepreneur, and investor in the field of real estate, well-known to many technology companies, and has two exits under his belt. Avi leads REP together with a team that comes from the forefront of the high-tech and real estate worlds, including real estate consultants, developers, product managers, service people, and more, who strive to strengthen the user experience—both from the realtor’s end and the customer’s end, develop technological tools, and promote models that aid in improving workflow and closing deals.",
+                "PARAGRAPH_4": "Whether you’re a realtor with an agency, an independent realtor, or thinking about a career in the world of real estate brokerage, REP offers you a warm home with a full range of innovative solutions alongside an engine for growth under a modern, global brand that embraces the new technological age.",
+                "BUTTON": "joinUsButton"
+            }
+        }
+    }
+}

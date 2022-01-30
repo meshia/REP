@@ -1,0 +1,94 @@
+{
+    "DATA": {
+        "AVI_AVISROR": {
+            "TYPE": "ImageSquareContentLinkedin",
+            "IMAGE": {
+                "SRC": "our-team/avi.jpg",
+                "ALT": "avi",
+                "TITLE": ""
+            },
+            "CONTAINER": {
+                "LINKEDIN": "https://www.linkedin.com/in/avi-avisror/",
+                "NAME": "Avi Avisror",
+                "TITLE": "Founder and CEO",
+                "PARAGRAPH": "Avi Avisror is a businessman, entrepreneur, and investor in the field of technology. He has spent all the years of his career building technological solutions for managing business procedures and has proven experience with hundreds of organizations in Israel and the world. Avi’s passion is to help businesses manage, improve, and become more efficient in their activities using technological tools, with the goal of leading the organization to maximal utilization of its resources, top-notch professionalism, and thus achievement of goals and maximization of profits. Avi is the founder and former CEO of CloudTech, which was sold to software giant Yael Group for millions of dollars."
+            }
+        },
+
+        "AVIAD_EFERGAN": {
+            "TYPE": "ImageSquareContentLinkedin",
+            "CONTAINER": {
+                "LINKEDIN": "https://www.linkedin.com/in/aviad-e/",
+                "NAME": "Aviad Efergan",
+                "TITLE": "CTO",
+                "PARAGRAPH": "Aviad is a techie with a passion for information systems. Aviad has over eight years of experience in developing complex business systems based on the Salesforce platform. Aviad set out together with Avi Avisror as the vice president of research and development at CloudTech and, after the company was sold, he was recruited by American software giant Salesforce as an information systems architect. Aviad leads the REP platform from beginning to end in all its technological aspects."
+            },
+            "IMAGE": {
+                "SRC": "our-team/aviad.png",
+                "ALT": "aviad",
+                "TITLE": ""
+            }
+        },
+
+        "HARRY_GAL": {
+            "TYPE": "ImageSquareContentLinkedin",
+            "IMAGE": {
+                "SRC": "our-team/harry.jpg",
+                "ALT": "harry",
+                "TITLE": ""
+            },
+            "CONTAINER": {
+                "NAME": "Harry Gal",
+                "TITLE": "Head of the Agent Trainers and Training Division",
+                "PARAGRAPH": "Harry brings with him more than 30 years of experience in the real estate field, of which 12 years as a broker and owner of a real estate agency, in the past he was a partner and manager in the successful TARGET real estate agency in Tel Aviv. Harry’s \"I believe\" is that every agent, new and experienced, should receive a mentoring and guidance on an ongoing basis and develop with the various technologies and trends in the real estate market as well as inspire to transfer all the knowledge he have in the real estate field to as much as agents as can under the REP’s shell. As part of his role, he is responsible for training and mentoring REP’s agent trainers and mentoring new agents and advising on deals for REP’s agents."
+            }
+        },
+
+        "NOFAR_MAGEN": {
+            "TYPE": "ImageSquareContentLinkedin",
+            "CONTAINER": {
+                "LINKEDIN": "https://www.linkedin.com/in/nofar-cohen/",
+                "NAME": "Nofar Magen",
+                "TITLE": "VP Marketing",
+                "PARAGRAPH": "Nofar specializes in identifying and analyzing business needs as well as in building and implementing marketing strategies that Motivate brand growth and increase brand awareness. Nofar brings 7 years of experience as a marketing manager, including 4 years at CloudTech under Avi Avisror, founder and CEO with REP. As part of her role, Nofar is responsible for advertising, SEO, social media content management, website, producing marketing materials for the sales team and conference production. Nofar holds a bachelor's degree in economics and management from the College of Management Academic Studies."
+            },
+            "IMAGE": {
+                "SRC": "our-team/nofar.png",
+                "ALT": "nofar",
+                "TITLE": ""
+            }
+        },
+
+        "ILAN_AVISROR": {
+            "TYPE": "ImageSquareContentLinkedin",
+            "IMAGE": {
+                "SRC": "our-team/ilan.png",
+                "ALT": "ilan",
+                "TITLE": ""
+            },
+            "CONTAINER": {
+                "NAME": "Ilan Avisrur",
+                "TITLE": "VP Sales",
+                "PARAGRAPH": "Ilan has been living and breathing the sales world in all of its aspects for over 7 years, whether as an agent, managing and building strategies and advising businesses in Israel and abroad. About two years ago he started a career as a real estate agent at Remax and already in his first quarter as an agent he entered the prestigious gold club. Ilan fell in love with REP's vision and the range of solutions and services that the company provides to its agents and he believes in modernity and merging between the Technological to the traditional real estate world."
+            }
+        },
+
+        "MAYA_ORLOV": {
+            "TYPE": "ImageSquareContentLinkedin",
+            "CONTAINER": {
+                "NAME": "Maya Orlov",
+                "TITLE": "Sales Manager",
+                "PARAGRAPH": "Maya began her first steps in the Real Estate world 6 years ago, she has vast experience in many positions, from team management, recruiting, training and mentoring new agents in Remax. Maya has worked closely with dozens of agents and guide them on an ongoing basis, she believes in the importance of joining a company that puts the agents in the center, and provides them with a wide range of solutions and services that contributes to their Personal growth and Career development side by side to a growth in both their deals and revenue."
+            },
+            "IMAGE": {
+                "SRC": "our-team/maya.jpg",
+                "ALT": "maya",
+                "TITLE": ""
+            }
+        }
+    },
+    "SEO": {
+        "TITLE": "REP-Realty - Our Team",
+        "DESCRIPTION": "Real estate company that offers new real-estate agents and veteran real-estate agents fare commission model and mediation software system for real-estate agents - Our Team"
+    }
+}

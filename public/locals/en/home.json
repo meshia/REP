@@ -1,0 +1,141 @@
+{
+    "DATA": {
+        "WHY_JOIN_US": {
+            "TYPE": "ImageTitleContent",
+            "IMAGE": {
+                "SRC": "homepage/about-us-img.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "blue-boxes-top-left blue-box-frame-bottom-right"
+            },
+            "CONTAINER": {
+                "TITLE": "Why Join Us?",
+                "PARAGRAPH_1": "<b>REP is a global real estate agency,</b> that recruits and works with experienced and reliable realtors who meet the ethical and professional standards of the brand—along with leading and innovative technology—in order to improve realtors’ experience and <b>connect them to the world of high-tech.</b>",
+                "PARAGRAPH_2": "At REP, we believe that in today’s world, there’s no room for organizations trying to render the realtor redundant, or franchise-based models that enforce an unfair division of commissions between the franchisee and the realtor. That’s the reason that REP <b>embraces realtors and places them at center stage and at the very core of the company’s operations, based on the understanding that they are the most efficient and most important factor in this business.</b>"
+            }
+        },
+
+        "FAIR_DIVISION_OF_COMMISSIONS_ICONS": {
+            "TYPE": "IconTitle",
+            "ICONS": {
+                "FAIR_DIVISION_OF_COMMISSIONS": {
+                    "ICON": "homepage/icons/icon-home-banner-1.png",
+                    "TITLE": "Fair division of commissions",
+                    "CONTENT": "Keep 80% - 100% of the realty fees"
+                },
+                "PARTNERS_IN_SUCCESS": {
+                    "ICON": "homepage/icons/icon-home-banner-2.png",
+                    "TITLE": "Partners in success",
+                    "CONTENT": "Generating passive revenue in addition to realty fees"
+                },
+                "POWERFUL_TECHNOLOGY": {
+                    "ICON": "homepage/icons/icon-home-banner-3.png",
+                    "TITLE": "Powerful technology",
+                    "CONTENT": "The best cloud-based system in the world available in multiple languages"
+                }
+            }
+        },
+
+        "YOUR_WAY_ANYTIME": {
+            "TYPE": "ImageTitleContent",
+            "IMAGE": {
+                "SRC": "homepage/partner-success1.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "transparent-boxes-top-left"
+            },
+            "CONTAINER": {
+                "TITLE": "Your Way, Anytime and Anywhere!",
+                "PARAGRAPH_1": "<b>REP enables realtors to enjoy flexibility and independence,</b> from the ability to maintain and work with their own methods, to removing restrictions on areas of operations, to receiving support in making fundamental decisions about management methods and closing deals.",
+                "PARAGRAPH_2": "In today’s digital world, where business is in the palm of one’s hand, REP’s realtors enjoy leading cloud-based technology from Salesforce. This technology allows them to work from anywhere, any time, and from any device – and so improve the efficiency of their workflow while saving precious time and focusing on what’s important.<b>The result is a significant increase in their revenues.</b>"
+            }
+        },
+
+        "REALTORS_EARNS_MORE": {
+            "TYPE": "ImageTitleContent",
+            "CONTAINER": {
+                "TITLE": "Realtors Earn More with REP",
+                "PARAGRAPH_1": "The company’s commission division model allows realtors at REP to <b>keep from 80% to 100% of the realty commission,</b> and to be part of a growing, innovative, global brand. REP’s commission model is one of the most rewarding in the global real estate market.",
+                "PARAGRAPH_2": "How is this possible? It’s simple – there are no office or operational fees, no global, national, regional, or office franchise fees, nor many others. REP’s realtors work transparently and directly for the global brand.",
+                "PARAGRAPH_3": "REP gives its realtors the most modern and revolutionary technological tools to expand their business and thus improve their efficiency, professionalism, and ability to close deals quickly."
+            },
+            "IMAGE": {
+                "SRC": "homepage/partner-success2.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "transparent-boxes-top-right"
+            }
+        },
+
+        "PARTNERS_IN_SUCCESS": {
+            "TYPE": "ImageTitleContent",
+            "IMAGE": {
+                "SRC": "homepage/partner-success3.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "border-frame"
+            },
+            "CONTAINER": {
+                "TITLE": "Partners in Success",
+                "PARAGRAPH_1": "<b>REP is proud to present the REP Royalty program,</b>  a passive source of revenue for realtors who contribute to the growth of the company. Every realtor who brings additional realtors to the company will enjoy significant percentages of those realtors’ deals – the commissions will be taken only from the company’s portion and not from the realtors’.",
+                "PARAGRAPH_2": "Additionally, REP enables its realtors to increase their revenues from every transaction through <b> REP Marketplace.</b> REP’s realtors offer their clients additional services from the company’s Marketplace, for which they are rewarded with additional commissions and so grow their total revenue. Services include appraisal, mortgage consultations, moving services, interior design, etc."
+            }
+        },
+
+        "POWERFUL_TECHNOLOGY": {
+            "TYPE": "ImageTitleContent",
+            "CONTAINER": {
+                "TITLE": "Powerful Technology",
+                "PARAGRAPH_1": "<b>REP is a high-tech company</b>  that’s bringing a breath of fresh air to the real estate brokerage market in particular and to the global real estate market in general through technological innovation. The company implements technological solutions based on the Salesforce platform, the world’s best cloud-based CRM system available from anywhere at any time and from any device with a unique and convenient user experience in the user’s native language. This technology serves the company’s realtors in managing leads, managing customers and customer relations, electronically signing contracts, providing digital marketing tools and solutions, and of course managing each stage of the deal."
+            },
+            "IMAGE": {
+                "SRC": "homepage/partner-success4.png",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "blue-box-frame-top-right blue-boxes-bottom-left"
+            }
+        },
+
+        "FREQUENTLY_ASKED_QUESTIONS": {
+            "TYPE": "FAQ",
+            "TITLE": "Frequently Asked Questions",
+            "QUESTIONS" :{
+                "IN_WHICH_COUNTRIES": {
+                    "QUESTION": "In which countries does REP operate?",
+                    "ANSWER": "REP operates nationally throughout Israel, and in 2022 will begin operations in its first country in Europe. REP has an organized roadmap for further global expansion into Europe and the USA, as well as select countries in Africa and the Middle East."
+                },
+                "DO_I_NEED_LICENSE": {
+                    "QUESTION": "Do I need a real estate license to be a realtor at REP?",
+                    "ANSWER": "Yes. Only licensed realtors may join REP"
+                },
+                "IS_REP_GOOD_FIT": {
+                    "QUESTION": "Is REP a good fit for realtors without experience?",
+                    "ANSWER": "Of course. REP is right for all sorts of realtors. Inexperienced realtors will receive guidance and training from the REP team."
+                },
+                "HOW_ARE_DIVIDED": {
+                    "QUESTION": "How are commissions divided at REP?",
+                    "ANSWER": "The division of commissions at REP is 80% to the realtor and 20% to the company, with an annual cap of 60,000 NIS. A realtor who reaches the cap will keep 100% of commissions until the end of the year."
+                },
+                "CAN_REAL_ESTATE_TEAMS": {
+                    "QUESTION": "Can real estate teams and agencies join REP?",
+                    "ANSWER": "Yes. REP’s information systems and business model support working as teams and real estate agencies. Furthermore, team members will enjoy a reduced annual cap of 33,000 NIS."
+                },
+                "WHAT_IS_THE_COST": {
+                    "QUESTION": "What is the cost of joining the company?",
+                    "ANSWER": "<ul><li>The monthly cost is 440 NIS, which includes:<ul><li>Access to REP CRM, the operational system for company realtors</li><li>Initial equipment: a tablet, \"for sale\"/\"for rent\" signs, business cards, and additional personal equipment.</li></ul></li><li>Closing cost of 190 NIS.</li></ul>"
+                },
+                "WHOM_CAN_I_BE_IN_TOUCH": {
+                    "QUESTION": "Whom can I be in touch with about being a realtor at REP?",
+                    "ANSWER": "To begin the REP registration process, please leave your details at the <a href=\"#\" onclick=\"window.open('https://rep-agent.force.com/clients/s/join-us?language=en_US','popup','width=600,height=600'); return false;\">registration page.</a>"
+                }
+            },
+            "COMMENT": "** Prices do not include VAT"
+        },
+        
+        "NOW_THAT_YOU_UNDERSTAND": {
+            "TYPE": "TitleButton",
+            "TITLE" : "Now that you understand how we’re going to change the world of real estate,</br> why don’t we do it together?",
+            "BUTTON": "joinUsButton"
+        }
+    }
+}

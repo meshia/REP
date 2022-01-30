@@ -1,0 +1,54 @@
+{
+    "DATA": {
+        "NEW_ERA": {
+            "TYPE": "ImageTitleContent",
+            "IMAGE": {
+                "SRC": "homepage/Home-Page.jpg",
+                "ALT": "",
+                "TITLE": "",
+                "CLASSES": "blue-boxes-top-right blue-box-frame-bottom-left"
+            },
+            "CONTAINER": {
+                "TITLE": "העידן החדש של עסקאות הנדל\"ן",
+                "PARAGRAPH_1": "REP היא חברת תיווך הנדל”ן הצומחת ביותר בישראל המפעילה מתווכים וסוכני מכירות בפריסה ארצית. אנו מתמחים במכירת נכסי נדל\"ן <b> בשיטת ה-Best Price</b> המאפשרת לנו להשלים את תהליך המכירה תוך 45 יום לכל היותר בצורה הטובה, הבטוחה והיעילה ביותר.",
+                "PARAGRAPH_2": "אנו דואגים לכל הפרטים: <b>צילום מקצועי</b> של הנכס לטובת פרסום ושיווק, הזמנות <b> דוח שמאות ופירמת עו\"ד</b> של החברה אשר עורכים  את הסכם המכר ומנהלת את תהליך המכירה.  שיטת ה- Best Price הינה הדרך הבטוחה והיעילה לרכוש נכסי נדל\"ן תחת שקיפות מלאה אשר במסגרתה מוצגים למציעים מצבו הפיזי והמשפטי של הנכס באמצעות דוח השמאות והסכם המכר."
+            }
+        },
+    
+        "DIVISION_OF_OPPOSITIONS_ICONS": {
+            "TYPE": "IconTitle",
+            "ICONS": {
+                "ICON_1": {
+                    "ICON": "homepage/icons/icon-home-banner-2.png",
+                    "TITLE": "מוכרים",
+                    "CONTENT": "בשיטת ה- Best Price, הנכס שלכם יימכר תוך 45 יום לכל היותר, תחת התנאים האופטימליים עבורכם",
+                    "LINK": {
+                        "LABEL": "קראו עוד",
+                        "LINK": "/Sellers"
+                    }
+                },
+                "ICON_2": {
+                    "ICON": "homepage/icons/icon-home-banner-3.png",
+                    "TITLE": "קונים",
+                    "CONTENT": "אנו מזמינים אתכם לבחור את הנכס הבא שלכם מתוך מאגר הנכסים שלנו הנמכרים בשיטת  הרכישה היחידה המאפשרת לקונים ביטחון ושקיפות מלאה.",
+                    "LINK": {
+                        "LABEL": "צפה בנכסים",
+                        "LINK": "#itemsIframe"
+                    }
+                },
+                "ICON_3": {
+                    "ICON": "homepage/icons/icon-home-banner-1.png",
+                    "TITLE": "מתווכים",
+                    "CONTENT": "חברת REP היא חברת תיווך הנדל\"ן הצומחת ביותר בישראל. המתווכים שלנו עובדים בפריסה ארצית ללא סניפים, זכיינויות או הגבלת אזורי פעילות.",
+                    "LINK": {
+                        "LABEL": "קראו עוד",
+                        "LINK": "https://rep-realty.com/"
+                    }
+                }
+            }
+        }
+    },
+    "IFRAME": {
+        "LINK": "https://clients.rep-properties.com/clients/s/props?language=iw"
+    }
+}
