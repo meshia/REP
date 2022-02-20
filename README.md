@@ -1,43 +1,63 @@
 # Getting Started with Create React App
+## This Project was Authored by: Meshi Avrahami
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Basic Specs
 
-## Available Scripts
+The Front-end of the website was built with React, v.17.0.2 with the build of “create-react-app” and structured as a single-page website.
+There is no Back-end at the moment (the plan is to add some Node.js and Express server-side)
+Currently, the data is inside the JSON-based React Library `react-i18next` which is a translation library that is used here to work as some kind of JSON-based database.
+find out more on the `react-i18next` on the `react-i18next` website.
 
-In the project directory, you can run:
+### Git
+## The Git Repo:
+For Cloning: `git clone https://meshiRep@bitbucket.org/meshirep/rep-website.git`
+# instructions: 
 
-### `npm start`
+if you don’t have Git installed, follow the instructions to install Git on the official Git website.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open cmd, go to the wanted folder, and run the cloning line. don’t worry about a folder, the Git will create one.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Open a new branch to work on - `git checkout -b "your_branch_name"`
 
-### `npm test`
+### Initialization, Run and Build
+## download and install node and npm
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# instructions:
+Install according to the guild in the official npm website, it’s pretty much `npm install -g npm` but it depends on the system, it is better to follow the current instructions.
 
-### `npm run build`
+currently using v17.0.1 node.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Initializing the Project Environment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project is a react app, it needs to be initialized, dependencies installed, and afterward to run the (http://localhost:3000) (local environment to view the project on) with live updates for a smooth workflow.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+fortunately, all of these are running automatically after initialization.
 
-### `npm run eject`
+for the initialization, we have the package.json file, this file contains all the data and dependencies of the project. the npm install command knows how to install all the dependencies automatically. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# instructions:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+In your project folder, open cmd/terminal in your code editor.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+run `npm install` in the root folder.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+sometimes there would be a run `npm audit fix` if the installation wasn’t complete, if it happens, run  run `npm audit fix` and follow the instructions.
+
+after all is installed, you can run `npm start` or `yarn start` for the project to start running the localhost (local environment to view the project on) and the watchers (which identify changes in the code, compile the Less into CSS, compile the JSX into HTML, minify, and update all of that for the localhost to display automatically) to start the work.
+
+## Run the Project
+
+After the project is initialized and installed, all you have to do to run the project and start working is run:
+
+`npm start` or `yarn start` in the cmd\terminal and the browser will open up automatically on (http://localhost:3000) where you will see the project running.
+
+## Build the Project
+
+To deploy the project and upload it to production, you need all the files to be compiled, gather, and set up for deployment, this process is called build - it builds a build folder for you just to upload its content to the server. all you have to do is run:
+
+`npm build` or `yarn build` in the cmd\terminal and the build folder will be created\updated automatically.
+
 
 ## Learn More
 
@@ -68,3 +88,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
